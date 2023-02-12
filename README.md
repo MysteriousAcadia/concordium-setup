@@ -19,3 +19,7 @@
 ![Step 5](./Screenshot%202023-02-08%20at%208.32.25%20PM.png)
 
 ![Step 6](./Import%20wallet.jpeg)
+
+# Mainnet Account:
+
+3nn8b5CPTWpmK6WmLYRerUBizQob6RaubZGEK469zQAZdUgXpi
